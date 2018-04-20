@@ -1,0 +1,2 @@
+NAME = "PyFrame"
+DEBUG = True
